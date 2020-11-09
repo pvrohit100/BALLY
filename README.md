@@ -1,4 +1,4 @@
 # BALLY
 
 
-Try running .exe file after downloading files from repository
+Try running " pygameprog.exe " file after downloading files from repository
